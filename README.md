@@ -1,2 +1,2 @@
 # DUR-AI
-DUR-AI is the basis of a new unique chat where you can communicate using queries
+This is just the basis of the idea and does not have a real function yet, but it is suitable for testing at home. This code can be used along with html the example is in the file test.html
